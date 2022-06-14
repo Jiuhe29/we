@@ -39,10 +39,5 @@ a,li{text-decoration:none;list-style:none}
 .imgs{width:100%;display:block}
 .banner p{padding-top:90%}
 .banner .background>*{top:-20%;}
-.banner .dai:hover{opacity:0}
-.banner .dai:hover~.ai-dai{opacity:0}
-.banner .dai:hover~.jiang{opacity:0}
-.banner .jiang:hover{opacity:0}
-.banner .jiang:hover~.ai-jiang{opacity:0}
-.banner .jiang:hover~.dai{opacity:.3}
+.banner .ai{display: none;}
 }
