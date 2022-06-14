@@ -31,10 +31,12 @@ a,li{text-decoration:none;list-style:none}
 .imgs{width:150%;display:flex}
 .imgs img{width:33.33%;height:50vh;text-align:center;line-height:50vh}
 @media screen and (max-width:500px){.main{font-size:30px}
+.nav{width:60px;}
 .imgs img{width:auto;height:50vh}
 .text-big{height:auto;overflow:visible}
 .content{height:auto}
 .img{height:auto;overflow:visible}
 .imgs{width:100%;display:block}
 .banner p{padding-top:90%}
+.banner .background>*{top: -10%;}
 }
