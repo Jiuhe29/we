@@ -1,0 +1,1 @@
+$(window).scroll(function(){var top=$(window).scrollTop();console.log(top)})
